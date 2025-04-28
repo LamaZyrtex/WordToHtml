@@ -1,0 +1,6 @@
+@WordToHtml_HostAddress = http://localhost:5226
+
+GET {{WordToHtml_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
